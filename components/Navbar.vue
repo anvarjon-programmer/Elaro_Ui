@@ -133,7 +133,7 @@
     <div v-if="!isScrolled" class="hidden lg:block">
       <ul class="container text-[16px] flex items-center justify-between font-bold text-white">
         <li>
-          <a href="#" class="flex items-center gap-1 pb-4">
+          <a href="promotions" class="flex items-center gap-1 pb-4">
             <i class="fa-solid fa-fire text-red-500"></i>
             Aksiyalar
           </a>
